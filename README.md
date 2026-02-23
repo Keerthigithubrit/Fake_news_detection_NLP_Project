@@ -1,4 +1,4 @@
-# Fake News Detection-NLP 
+# Fake News Detection Using NLP & Machine Learning
 
 ## Description
 The project ocus on fake news detection using techniques like Machine Learning(ML),natural Language Processing(NLP).The goal is to build a reliable text classification system that can distinguish between fake and real news articles
@@ -117,4 +117,5 @@ Confusion Matrix:
 
 ## Conclusion:
 **Based on the evaluation metrics:**
+
 >The model successfully learned patterns from the dataset.Predictions are highly accurate.Logistic Regression performed effectively for this NLP classification task.This project demonstrates the power of combining NLP preprocessing techniques with Machine Learning models for text classification problems.
